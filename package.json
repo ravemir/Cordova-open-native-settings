@@ -1,0 +1,25 @@
+{
+  "name": "com.phonegap.plugins.nativesettingsopener",
+  "version": "1.2.0",
+  "description": "Native settings opener for Cordova 3.0",
+  "cordova": {
+    "id": "com.phonegap.plugins.nativesettingsopener",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT"
+}
